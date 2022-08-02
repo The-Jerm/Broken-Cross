@@ -21,7 +21,7 @@ change_estate_land_share = {
 }
 
 1425.1.5 = {
-	heir = {
+	monarch = {
 		name = "John"
 		monarch_name = "John III"
 		dynasty = "el de Leon"
