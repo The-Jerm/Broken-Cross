@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "BROKEN_CROSS"
+	desc = "BROKEN_CROSS_DESC"
+	date = 1444.11.11
+	
+	center = 112
+	default = yes
+	
+	country = LON
+	country = ADU
+	
+}
