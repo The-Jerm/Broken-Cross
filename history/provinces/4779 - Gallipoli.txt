@@ -1,6 +1,6 @@
 owner = HSN
 controller = HSN
-culture = yunanian
+culture = yunani
 religion = sunni
 capital = "Gallipoli"
 trade_goods = livestock

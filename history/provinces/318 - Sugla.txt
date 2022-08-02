@@ -2,7 +2,7 @@
 
 owner = HSN
 controller = HSN
-culture = yunanian
+culture = yunani
 religion = sunni
 capital = "Izmirni"
 trade_goods = cotton #Major producer and exporter of Cotton

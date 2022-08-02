@@ -7,7 +7,7 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
-# South Slavic is needed for Sclavenian, Byzantine is needed for Yunanian and Albanian, Baltic is needed for Pruthenian
+# South Slavic is needed for Sclavenian, Byzantine is needed for Yunani and Albanian, Baltic is needed for Pruthenian
 
 south_slavic = {
 	graphical_culture = easterngfx
@@ -451,7 +451,7 @@ byzantine = {
 			Shqipe Teuta Venera Vera Vesa Yllka
 		}
 	}
-	yunanian = { # Change the namelist so it's Mulsimized Greek rather than generic Muslim
+	yunani = { # Change the namelist so it's Mulsimized Greek rather than generic Muslim
 		#primary = TRQ
 		dynasty_names = {
 			Nasrid Ummayad Zirid

@@ -6,7 +6,7 @@ religion = sunni
 technology_group = muslim
 capital = 151 # Constantinople
 fixed_capital = 151
-add_accepted_culture = yunanian
+add_accepted_culture = yunani
 religious_school = shafii_school
 
 1378.1.1 = {

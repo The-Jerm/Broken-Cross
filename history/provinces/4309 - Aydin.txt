@@ -2,7 +2,7 @@
 
 owner = HSN
 controller = HSN
-culture = yunanian
+culture = yunani
 religion = sunni
 capital = "Aydin"
 trade_goods = salt #Major Ottoman Salt Work

@@ -2,7 +2,7 @@
 
 owner = HSN
 controller = HSN
-culture = yunanian
+culture = yunani
 religion = sunni
 capital = "Bursa"
 trade_goods = silk
