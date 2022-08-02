@@ -1,6 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-technology_group = western
-primary_culture = norsanglic
-religion = Bretlandic
-capital = 236	# London

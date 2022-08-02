@@ -3,10 +3,12 @@ add_government_reform = monastic_order_reform
 government_rank = 1
 primary_culture = occitain
 add_accepted_culture = cosmopolitan_french
-religion = chalcedonism
+religion = catholic
 technology_group = western
-capital = 196 # Touluse
+capital = 178 # Touluse
 historical_friend = KNI
+historical_friend = PAP
+add_army_professionalism = 0.1
 
 1437.1.1 = {
 	monarch = {

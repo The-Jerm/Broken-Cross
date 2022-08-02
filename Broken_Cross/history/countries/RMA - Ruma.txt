@@ -1,10 +1,10 @@
 government = monarchy
 add_government_reform = iqta
-primary_culture = italiu
+primary_culture = umbrian
 religion = shiite
 technology_group = muslim
 capital = 118
-government_rank = 1
+government_rank = 2
 religious_school = maliki_school
 add_army_professionalism = 0.1
 
@@ -12,7 +12,7 @@ add_army_professionalism = 0.1
 	monarch = {
 		name = "Muhammad VIII"
 		dynasty = "Maanid"
-		adm = 3
+		adm = 4
 		dip = 2
 		mil = 5
 	}

@@ -3,34 +3,16 @@ add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 primary_culture = normand
-add_accepted_culture = cosmopolitan_french
-religion = chalcedonism
+religion = norse_pagan_reformed
 capital = 168	# Caen
+historical_rival = FRA
 
-1443.8.15 = {
+1444.1.1 = {
 	monarch = {
-		name = "Henri V"
-		dynasty = "de Metz"
-		adm = 0
-		dip = 3
-		mil = 5
+		name = "Guillaume III"
+		dynasty = "de Normandy"
+		adm = 2
+		dip = 4
+		mil = 4
 	}
 }
-
-1465.8.15 = {
-	monarch = {
-		name = "Charles I"
-		dynasty = "de Valois"
-		adm = 0
-		dip = 1
-		mil = 0
-	}
-}
-
-1515.1.1 = { government = monarchy
-add_government_reform = autocracy_reform }
-
-1589.8.3 = { set_legacy_government = administrative_monarchy }
-
-1661.3.9 = { government = monarchy
-add_government_reform = autocracy_reform }
